@@ -1,4 +1,5 @@
-# MusicPlayer![Uploading icons8-kotlin-48.png…]()
+# MusicPlayer![icons8-kotlin-48](https://github.com/TechboyVerma/Music-Player--Master/assets/114131682/716e938d-5ef1-4fc0-8d93-74e230069306)
+
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
@@ -38,9 +39,5 @@
 <li>And Much More....
 </ul>
   
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hyaRM3LhIYOqIXK7LIoEJ4Qf
-  <br><br>
-  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project.
   
   For Feedback or Suggestions Mail Me At parikshitverma865@gmail.com 🙂
