@@ -44,4 +44,4 @@
   <br><br>
   <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project.
   
-  For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
+  For Feedback or Suggestions Mail Me At parikshitverma865@gmail.com 🙂
