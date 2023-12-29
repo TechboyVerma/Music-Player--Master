@@ -1,11 +1,10 @@
-# MusicPlayer
+# MusicPlayer![Uploading icons8-kotlin-48.png…]()
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
 
 <b>Simple Yet A Feature Rich Music Player Application.</b></br>
 
-<b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
-  <br>https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/Music%20Player%20v4.0.5-9.apk (v4.0.5)
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
